@@ -18,6 +18,7 @@ Nothing really, at most probably like that cool zoom feature if you get what i m
 ## Prerequisites
 
 Make sure "Disable Driver Signature Enforcement" is enabled
+
 Make sure you have the Intel Serial IO driver installed
 
 ## Tutorial
