@@ -1,4 +1,8 @@
-# Windows 7/8/8.1 Drivers For The ALPS Touchpads In The Dell Latitude 7x90, x = 2, 3 or 4
+# Windows 7/8/8.1 Drivers For The ALPS Touchpads In The Dell Latitude 7x90
+
+## What does the "x" in "Latitude 7x90"
+
+There are 3 modules of the Dell Latitude series that i know share the same touchpad hardware, instead of writing 7290, 7390 and 7490 i decided to write 7x90 to save space and save me time
 
 ## Why did i do this?
 
