@@ -11,9 +11,11 @@ For people who installed a windows version Dell says are "unsupported" they'll s
 I wanted to help such people out
 
 
-## What would i lose over the actual windows precision drivers if they were on windows 8/8.1?
+## What would i lose over the actual windows precision drivers if they were on windows 7/8/8.1?
 
 Nothing really, at most probably like that cool zoom feature if you get what i mean
+
+ON WINDOWS 7 YOU WILL LOSE MULTITOUCH DRAGGING, this is fine tho since bringing the trackpad to edge while dragging will make it still drag albeit it slowly
 
 ## Prerequisites
 
